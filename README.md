@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+ ![Welligton Rio's GitHub stats](https://github-readme-stats.vercel.app/api?username=welligtonrios&show_icons=true&theme=radical&title_color='#1a1b27')
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=welligtonrios&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **welligtonrios/welligtonrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
